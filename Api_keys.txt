@@ -1,0 +1,12 @@
+
+MCX : MCX:GOLDM25OCTFUT
+SGB = NSE:SGBFEB32IV-GB
+
+API Key : ixick4apw3b5oh22
+API Secret : whlu97153a2mbhcer97g7mqtkabj3rl3
+
+User ID: ZF8233
+Password : Same 
+
+Email : caprabaljain@gmail.com
+
